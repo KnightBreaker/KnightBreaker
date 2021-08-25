@@ -1,8 +1,9 @@
-- 🔴 YouTube: https://t.co/2sTaaIJFrD
-- 🟠 TikTok: https://t.co/z67s0UUGf7
-- 🟡 Discord: https://t.co/9LqfxbOrqy
-- 🔵 Twitter: https://t.co/1AeLNUlEXa
-- ⚪️ SAC Code (#Ad, #EpicPartner): Knight_Breaker
+ [YouTube](https://youtube.com/channel/UCGv58VE4OHdld0N-scm0a9w/channels) |
+ [TikTok](https://tiktok.com/@knight_breaker) |
+ [Discord](https://discord.gg/efKCrwVc9X) |
+ [Twitter](https://twitter.com/_Knight_Breaker)
+ 
+ SAC Code (#Ad, #EpicPartner): Knight_Breaker
 
 <!---
 KnightBreaker/KnightBreaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
