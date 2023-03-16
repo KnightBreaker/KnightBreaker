@@ -1,9 +1,9 @@
 [YouTube](https://youtube.com/channel/UCGv58VE4OHdld0N-scm0a9w/channels) |
-[TikTok](https://tiktok.com/@knight_breaker) |
+[TikTok](https://tiktok.com/@kbfngg) |
 [Discord](https://discord.gg/efKCrwVc9X) |
 [Twitter](https://twitter.com/_Knight_Breaker)
  
-SAC Code <sup>[1]</sup>: `Knight.Breaker`
+SAC Code <sup>[1]</sup>: `KBFN.GG`
 
 ---
  
