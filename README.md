@@ -3,7 +3,7 @@
 [Discord](https://discord.gg/efKCrwVc9X) |
 [Twitter](https://twitter.com/_Knight_Breaker)
  
-SAC Code <sup>[1]</sup>: `KBFN.GG`
+SAC Code <sup>[1]</sup>: `KBFNGG`
 
 ---
  
